@@ -1,0 +1,94 @@
+{
+    "appTitle": "تيفاوين",
+    "searchHint": "البحث عن صالونات...",
+    "sortBy": "ترتيب حسب:",
+    "distance": "المسافة",
+    "rating": "التقييم",
+    "price": "السعر",
+    "noSalonsFound": "لم يتم العثور على صالونات تطابق معاييرك",
+    "all": "الكل",
+    "hair": "الشعر",
+    "nails": "الأظافر",
+    "skincare": "العناية بالبشرة",
+    "makeup": "المكياج",
+    "spa": "سبا",
+    "services": "الخدمات",
+    "reviews": "التقييمات",
+    "contactProfessional": "تواصل مع محترف",
+    "contactSalon": "تواصل مع الصالون",
+    "callSalon": "اتصل بالصالون",
+    "sendMessage": "إرسال رسالة",
+    "settings": "الإعدادات",
+    "personalInfo": "المعلومات الشخصية",
+    "notifications": "الإشعارات",
+    "language": "اللغة",
+    "helpSupport": "المساعدة والدعم",
+    "logout": "تسجيل الخروج",
+    "recentAppointments": "المواعيد الأخيرة",
+    "completed": "مكتمل",
+    "upcoming": "قادم",
+    "kmAway": "يبعد {distance} كم",
+    "@kmAway": {
+        "placeholders": {
+            "distance": {
+                "type": "double"
+            }
+        }
+    },
+    "hairColoring": "صبغ الشعر",
+    "fullBodyMassage": "مساج كامل للجسم",
+    "manicurePedicure": "مانيكير وباديكير",
+    "date1": "١٠ مايو ٢٠٢٥",
+    "date2": "٥ مايو ٢٠٢٥",
+    "date3": "١٥ مايو ٢٠٢٥",
+    "reviewDate": "{date}",
+    "@reviewDate": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "salonDashboard": "لوحة تحكم الصالون",
+    "todaysAppointments": "مواعيد\nاليوم",
+    "totalReviews": "مجموع\nالتقييمات",
+    "averageRating": "متوسط\nالتقييم",
+    "todaysSchedule": "جدول اليوم",
+    "viewAll": "عرض الكل",
+    "contactSalonBooking": "اتصل بالصالون مباشرة لحجز المواعيد.",
+    "servicesOverview": "نظرة عامة على الخدمات",
+    "bookingsThisMonth": "{count} حجز هذا الشهر",
+    "@bookingsThisMonth": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "haircutStyling": "قص وتصفيف الشعر",
+    "facialTreatments": "علاجات الوجه",
+    "salonGlamourBeauty": "صالون جلامور بيوتي",
+    "salonZenSpa": "صالون زن سبا",
+    "salonNailArt": "ستوديو نيل آرت",
+    "userName": "أحمد محمد",
+    "userEmail": "ahmed.m@example.com",
+    "loyaltyPoints": "نقاط الولاء الخاصة بك",
+    "points": "نقطة",
+    "currentOffers": "العروض الحالية",
+    "hairTreatmentOffer": "خصم 20% على علاج الشعر",
+    "freeManicureOffer": "مانيكير مجاني",
+    "spaDayOffer": "خصم 50% على باقة السبا",
+    "validUntil": "صالح حتى {date}",
+    "@validUntil": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "redeem": "استبدال",
+    "pointsHistory": "سجل النقاط",
+    "hairColoringService": "خدمة صبغ الشعر",
+    "spaTreatment": "علاج السبا",
+    "manicureRedemption": "استبدال المانيكير"
+} 

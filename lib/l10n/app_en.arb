@@ -1,0 +1,94 @@
+{
+    "appTitle": "Tifawin",
+    "searchHint": "Search salons...",
+    "sortBy": "Sort by:",
+    "distance": "Distance",
+    "rating": "Rating",
+    "price": "Price",
+    "noSalonsFound": "No salons found matching your criteria",
+    "all": "All",
+    "hair": "Hair",
+    "nails": "Nails",
+    "skincare": "Skincare",
+    "makeup": "Makeup",
+    "spa": "Spa",
+    "services": "Services",
+    "reviews": "Reviews",
+    "contactProfessional": "Contact a Professional",
+    "contactSalon": "Contact Salon",
+    "callSalon": "Call Salon",
+    "sendMessage": "Send Message",
+    "settings": "Settings",
+    "personalInfo": "Personal Information",
+    "notifications": "Notifications",
+    "language": "Language",
+    "helpSupport": "Help & Support",
+    "logout": "Log Out",
+    "recentAppointments": "Recent Appointments",
+    "completed": "Completed",
+    "upcoming": "Upcoming",
+    "kmAway": "{distance} km away",
+    "@kmAway": {
+        "placeholders": {
+            "distance": {
+                "type": "double"
+            }
+        }
+    },
+    "hairColoring": "Hair Coloring",
+    "fullBodyMassage": "Full Body Massage",
+    "manicurePedicure": "Manicure & Pedicure",
+    "date1": "May 10, 2025",
+    "date2": "May 5, 2025",
+    "date3": "May 15, 2025",
+    "reviewDate": "{date}",
+    "@reviewDate": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "salonDashboard": "Salon Dashboard",
+    "todaysAppointments": "Today's\nAppointments",
+    "totalReviews": "Total\nReviews",
+    "averageRating": "Average\nRating",
+    "todaysSchedule": "Today's Schedule",
+    "viewAll": "View All",
+    "contactSalonBooking": "Contact the salon directly to book appointments.",
+    "servicesOverview": "Services Overview",
+    "bookingsThisMonth": "{count} bookings this month",
+    "@bookingsThisMonth": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "haircutStyling": "Haircut & Styling",
+    "facialTreatments": "Facial Treatments",
+    "salonGlamourBeauty": "Glamour Beauty",
+    "salonZenSpa": "Zen Spa",
+    "salonNailArt": "Nail Art Studio",
+    "userName": "John Doe",
+    "userEmail": "john.doe@example.com",
+    "loyaltyPoints": "Your Loyalty Points",
+    "points": "points",
+    "currentOffers": "Current Offers",
+    "hairTreatmentOffer": "20% Off Hair Treatment",
+    "freeManicureOffer": "Free Manicure",
+    "spaDayOffer": "Spa Day Package 50% Off",
+    "validUntil": "Valid until {date}",
+    "@validUntil": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "redeem": "Redeem",
+    "pointsHistory": "Points History",
+    "hairColoringService": "Hair Coloring Service",
+    "spaTreatment": "Spa Treatment",
+    "manicureRedemption": "Manicure Redemption"
+} 

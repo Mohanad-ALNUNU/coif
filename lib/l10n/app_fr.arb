@@ -1,0 +1,94 @@
+{
+    "appTitle": "Tifawin",
+    "searchHint": "Rechercher des salons...",
+    "sortBy": "Trier par:",
+    "distance": "Distance",
+    "rating": "Note",
+    "price": "Prix",
+    "noSalonsFound": "Aucun salon trouvé selon vos critères",
+    "all": "Tous",
+    "hair": "Cheveux",
+    "nails": "Ongles",
+    "skincare": "Soin de la peau",
+    "makeup": "Maquillage",
+    "spa": "Spa",
+    "services": "Services",
+    "reviews": "Avis",
+    "contactProfessional": "Contacter un professionnel",
+    "contactSalon": "Contacter le salon",
+    "callSalon": "Appeler le salon",
+    "sendMessage": "Envoyer un message",
+    "settings": "Paramètres",
+    "personalInfo": "Informations personnelles",
+    "notifications": "Notifications",
+    "language": "Langue",
+    "helpSupport": "Aide & Support",
+    "logout": "Déconnexion",
+    "recentAppointments": "Rendez-vous récents",
+    "completed": "Terminé",
+    "upcoming": "À venir",
+    "kmAway": "{distance} km",
+    "@kmAway": {
+        "placeholders": {
+            "distance": {
+                "type": "double"
+            }
+        }
+    },
+    "hairColoring": "Coloration des cheveux",
+    "fullBodyMassage": "Massage complet du corps",
+    "manicurePedicure": "Manucure & Pédicure",
+    "date1": "10 mai 2025",
+    "date2": "5 mai 2025",
+    "date3": "15 mai 2025",
+    "reviewDate": "{date}",
+    "@reviewDate": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "salonDashboard": "Tableau de bord du salon",
+    "todaysAppointments": "Rendez-vous\nd'aujourd'hui",
+    "totalReviews": "Total des\navis",
+    "averageRating": "Note\nmoyenne",
+    "todaysSchedule": "Programme du jour",
+    "viewAll": "Voir tout",
+    "contactSalonBooking": "Contactez le salon directement pour prendre rendez-vous.",
+    "servicesOverview": "Aperçu des services",
+    "bookingsThisMonth": "{count} réservations ce mois-ci",
+    "@bookingsThisMonth": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "haircutStyling": "Coupe & Coiffure",
+    "facialTreatments": "Soins du visage",
+    "salonGlamourBeauty": "Glamour Beauté",
+    "salonZenSpa": "Spa Zen",
+    "salonNailArt": "Studio Nail Art",
+    "userName": "Jean Dupont",
+    "userEmail": "jean.dupont@exemple.com",
+    "loyaltyPoints": "Vos Points de Fidélité",
+    "points": "points",
+    "currentOffers": "Offres Actuelles",
+    "hairTreatmentOffer": "20% de Réduction sur le Traitement des Cheveux",
+    "freeManicureOffer": "Manucure Gratuite",
+    "spaDayOffer": "50% de Réduction sur le Forfait Spa",
+    "validUntil": "Valable jusqu'au {date}",
+    "@validUntil": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "redeem": "Échanger",
+    "pointsHistory": "Historique des Points",
+    "hairColoringService": "Service de Coloration des Cheveux",
+    "spaTreatment": "Traitement Spa",
+    "manicureRedemption": "Échange de Manucure"
+} 
